@@ -1,4 +1,4 @@
-# AppliCation 開発Wiki
+# Application 開発Wiki
 
 ## 開発アプリ案
 
