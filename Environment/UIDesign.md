@@ -43,3 +43,10 @@
 ![03](https://raw.githubusercontent.com/wiki/pontuka/pontuka.picture/images/AnsScreen_03.png)
 
 ![03a](https://raw.githubusercontent.com/wiki/pontuka/pontuka.picture/images/AnsScreen_03a.png)
+
+
+## 問題編集画面
+
+![01](https://raw.githubusercontent.com/wiki/pontuka/pontuka.picture/images/EditScreen_01.png)
+
+![01a](https://raw.githubusercontent.com/wiki/pontuka/pontuka.picture/images/EditScreen_01a.png)
