@@ -26,3 +26,20 @@
 ![04a](https://raw.githubusercontent.com/wiki/pontuka/pontuka.picture/images/CreateScreen_04a.png)
 
 ![05](https://raw.githubusercontent.com/wiki/pontuka/pontuka.picture/images/CreateScreen_05.png)
+
+
+## 問題回答画面
+
+![01](https://raw.githubusercontent.com/wiki/pontuka/pontuka.picture/images/AnsScreen_01.png)
+
+![01a](https://raw.githubusercontent.com/wiki/pontuka/pontuka.picture/images/AnsScreen_01a.png)
+
+![01b](https://raw.githubusercontent.com/wiki/pontuka/pontuka.picture/images/AnsScreen_01b.png)
+
+![01c](https://raw.githubusercontent.com/wiki/pontuka/pontuka.picture/images/AnsScreen_01c.png)
+
+![02](https://raw.githubusercontent.com/wiki/pontuka/pontuka.picture/images/AnsScreen_02.png)
+
+![03](https://raw.githubusercontent.com/wiki/pontuka/pontuka.picture/images/AnsScreen_03.png)
+
+![03a](https://raw.githubusercontent.com/wiki/pontuka/pontuka.picture/images/AnsScreen_03a.png)
